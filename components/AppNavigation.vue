@@ -29,10 +29,6 @@
 
     let navOpen = ref(false);
 
-    function openContactForm() {
-        //TODO: go to contact form page
-    }
-
     function openModal() {
         console.log('Open Roadmap Modal');
     }

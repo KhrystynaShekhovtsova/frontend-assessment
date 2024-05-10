@@ -5,7 +5,7 @@
                <span class="label bg-lime-900 rotate-[15deg] right-[-0.2em] top-[-1.4em]">A COSTO ZERO</span>
                <h1 class="text-xl lg:text-extralg uppercase italic text-white mb-6">PORTA IL TUO PADEL CLUB AL LIVELLO SUCCESSIVO</h1>
            </div>
-           <p class="text-white text-lg block px-12">
+           <p class="text-white text-base md:text-lg block px-12">
                Aumenta gli accessi, ospita gli eventi esclusivi e i nostri viaggi allenamento. Ci occuperemo di supportarti nell’intera organizzazione.
            </p>
            <button class="button__main mt-11" @click="">Candidati subito</button>
@@ -47,21 +47,6 @@
                <img src="assets/images/arrow-icon.svg">
                <span class="opacity-25 not-italic">INNOVATIVE</span>
                <img src="assets/images/arrow-icon.svg">
-           </h2>
-       </section>
-
-       <section class="container text-center">
-           <h2>COSA CHIEDIAMO AI NOSTRI PARTNER</h2>
-           <button class="button__main mt-11" @click="">Candidati subito</button>
-       </section>
-
-       <section class="container bg-lightgray-900">
-           <h2>Hai delle domande?</h2>
-       </section>
-
-       <section class="container bg-lime-900 text-center px-6">
-           <h2>
-               SEI PRONTO PER IL PROSSIMO LIVELLO? IL TUO CLUB MERITA DI DISTINGUERSI A LIVELLO GLOBALE.
            </h2>
        </section>
    </main>

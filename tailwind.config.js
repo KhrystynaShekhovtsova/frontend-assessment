@@ -45,6 +45,18 @@ export default {
         },
         lightgray: {
           '900': '#E5E5E5',
+        },
+        gray: {
+          '900': '#809396',
+        },
+        lightbeige: {
+          '900': '#E5E5E5',
+        },
+        navy: {
+          '900': '#4D696D',
+        },
+        lightblue: {
+          '900': '#D3E2E8',
         }
       }
     },
